@@ -126,7 +126,6 @@ gltfLoader.load(
                         end: "bottom bottom",
                         // markers: true,
                         scrub: 1,
-                        toggleActions: "play complete play reset"
                       });
 
 
